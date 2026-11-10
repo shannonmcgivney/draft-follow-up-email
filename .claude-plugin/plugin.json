@@ -1,0 +1,7 @@
+{
+  "name": "draft-follow-up-email",
+  "version": "1.0.0",
+  "description": "Say \"draft follow-up email\" after a meeting: Claude reads your Wispr Flow transcript and saves a thank-you, a two-sentence summary, next steps by owner, and what you promised to send as a Gmail draft. It never sends.",
+  "author": { "name": "McGivney Media", "email": "shannon@mcgivneymedia.com" },
+  "keywords": ["meetings", "follow-up", "email", "gmail", "wispr-flow", "productivity"]
+}
